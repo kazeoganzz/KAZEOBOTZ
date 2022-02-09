@@ -1,0 +1,11 @@
+{
+"wait" : "*[❗] SABAR SEDANG DI PROSES*",
+"success" : "*[❗] SUKSES BRO*",
+"wrongFormat" : "*[❗] WRONG FORMAT!! PLEASE READ MENU*",
+"stick" : "*[❗] ITU BUKAN STIKER*",
+"url" : "*[❗] URL MOKAD*",
+"group" : "*[❗] ONLY GROUP*",
+"owner" : "*[❗] ONLY OWNER*",
+"gcadmin" : "*[❗] ONLY ADMIN*",
+"welkam" : "*Welcome @${mem.split('@')[0]} Di ${mdata.subject}*\n\n_Semoga Kamu Betah Dan Senang Berada Disini Serta Jangan Lupa Untuk Baca Dan Patuhi Rules Yang Ada_"
+}
